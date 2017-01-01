@@ -1,0 +1,30 @@
+﻿Build started 2012-02-01 22:46:09.
+     1>Project "c:\Users\Jeff\documents\visual studio 2010\Projects\Minecraft Helper\Minecraft Helper\Minecraft Helper.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\Minecraft Helper.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Minecraft Helper.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HelpDlg.cpp "Minecraft HelperDlg.cpp"
+         HelpDlg.cpp
+         Minecraft HelperDlg.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\jeff\documents\visual studio 2010\Projects\Minecraft Helper\Release\Minecraft Helper.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\Minecraft Helper.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\jeff\documents\visual studio 2010\Projects\Minecraft Helper\Release\Minecraft Helper.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\jeff\documents\visual studio 2010\Projects\Minecraft Helper\Release\Minecraft Helper.lib" /MACHINE:X86 "Release\Minecraft Helper.res"
+         Release\HelpDlg.obj
+         "Release\Minecraft Helper.obj"
+         "Release\Minecraft HelperDlg.obj"
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         Minecraft Helper.vcxproj -> c:\users\jeff\documents\visual studio 2010\Projects\Minecraft Helper\Release\Minecraft Helper.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\jeff\documents\visual studio 2010\Projects\Minecraft Helper\Release\Minecraft Helper.exe;#1" /manifest "Release\Minecraft Helper.exe.intermediate.manifest" "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\Minecraft Helper.unsuccessfulbuild".
+         Touching "Release\Minecraft Helper.lastbuildstate".
+     1>Done Building Project "c:\Users\Jeff\documents\visual studio 2010\Projects\Minecraft Helper\Minecraft Helper\Minecraft Helper.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
